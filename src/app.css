@@ -45,3 +45,10 @@ body {
 #navbarNavAltMarkup {
   text-align: left;
 }
+h2 {
+  text-align: center;
+  color: #9c9088;
+  font-size: 60px;
+  font-family: monospace;
+  padding-top: 80px;
+}
