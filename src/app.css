@@ -52,3 +52,12 @@ h2 {
   font-family: monospace;
   padding-top: 80px;
 }
+@media (min-width: 576px) {
+  .video-container {
+    width: 50%;
+    height: 20%;
+  }
+  h2 {
+    font-size: 25px;
+  }
+}
