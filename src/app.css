@@ -1,3 +1,7 @@
+:root {
+  --primary-color: #9c9088;
+}
+
 body {
   background-color: whitesmoke;
 }
@@ -281,8 +285,10 @@ header {
   color: black;
   cursor: default;
 }
-
-/* visited link */
-a:visited {
-  color: black;
+.aboutme {
+  color: #9c9088;
+}
+.homeParagraph {
+  text-align: center;
+  font-family: monospace;
 }
